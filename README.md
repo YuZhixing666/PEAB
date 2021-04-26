@@ -10,5 +10,5 @@ A Pool-based Distributed Evolutionary Algorithm Model
 
 ### Server-Client architecture
 - Use CherryPy Web framework in Python2.7
-- Server includes two files, peab.py and cherry_server.py
-- Client includes the remaining five files
+- The Server includes two files, peab.py and cherry_server.py
+- The Client includes the remaining five files
